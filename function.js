@@ -1,0 +1,1 @@
+function getjsonfile(url,method="GET"){return new Promise(function (resolve,reject){let req=new XMLHttpRequest();req.open(method,url);req.onload=function(){if(this.status>=200&&this.status<300){resolve(req.response);}else{reject({status:this.status,statusText:req.statusText});}};req.onerror=function(){reject({status:this.status,statusText:req.statusText});};req.send();});}

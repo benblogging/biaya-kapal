@@ -1,0 +1,1 @@
+function gettoldata(f,r,g,m,k){const tol=getjsonfile(`https://bennypadang.com/wp-content/uploads/tol_${f}.json`);console.log(`awdwadawa - ${tol[r]}`);let type=/*tol[r]["type"]*/"tutup";let t=(type==="tutup")?tol[r][m]['tarif'][k][g]:tol[r]['tarif'][g];return t;}
