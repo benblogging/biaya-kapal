@@ -5,19 +5,15 @@
         "type":"tutup",
         "legal":{
             "no":"Keputusan Menteri PUPR No. 732/KPTS/M/2021",
-            "title":"[Auto-generated] Penyesuaian Tarif Tol pada Ruas Jalan Tol Bakauheni - Terbanggi Besar"
+            "title":"[Predicted] Penyesuaian Tarif Tol pada Ruas Jalan Tol Bakauheni - Terbanggi Besar"
         },
         "bakauheni_selatan":{
-            "nama":"Bakauheni Selatan",
-            "tarif":{
-                "kotabaru":{
-                  "nama":"Kotabaru",
-                    "i":3000,
-                    "ii":5000,
-                    "iii":5000,
-                    "iv":6500,
-                    "v":6500
-                }
+            "itera_kotabaru":{
+                "i":66500,
+                "ii":99500,
+                "iii":99500,
+                "iv":132500,
+                "v":132500
             }
         }
     }
