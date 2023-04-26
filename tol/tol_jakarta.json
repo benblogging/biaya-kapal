@@ -9,8 +9,17 @@
         "v":17500
     },
     "jirr":{
+        "name":"Jalan Tol Lingkar Dalam Kota Jakarta",
         "type":"buka",
-        "i":10000
+        "legal":{
+            "no":"Kepmen PUPR No. 74/KPTS/M/2022",
+            "title":"[Predicted] Penyesuaian Tarif Tol pada Jalan Tol Dalam Kota ruas Cawang - Tomang - Pluit dan Cawang - Tanjung Priok - Ancol Timur- Jembatan Tiga/Pluit"
+        },
+        "i":10500,
+        "ii":15500,
+        "iii":15500,
+        "iv":17500,
+        "v":17500
     },
     "jorr":{
         "type":"buka",
