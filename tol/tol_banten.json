@@ -8,36 +8,33 @@
             "title":"Penyesuaian Tarif Tol pada Ruas Jalan Tol Tangerang-Merak"
         },
         "cikupa":{
-            "nama":"Cikupa",
-            "tarif":{
-                "balaraja_timur":{
-                    "i":3000,
-                    "ii":5000,
-                    "iii":5000,
-                    "iv":6500,
-                    "v":6500
-                },
-                "balaraja_barat":{
-                    "i":6000,
-                    "ii":9000,
-                    "iii":9000,
-                    "iv":12000,
-                    "v":12000
-                },
-                "cikande":{},
-                "ciujung":{},
-                "walantaka":{},
-                "serang_timur":{},
-                "serang_barat":{},
-                "cilegon_timur":{},
-                "cilegon_barat":{},
-                "merak":{
-                    "i":53500,
-                    "ii":84500,
-                    "iii":84500,
-                    "iv":109000,
-                    "v":109000
-                }
+            "balaraja_timur":{
+                "i":3000,
+                "ii":5000,
+                "iii":5000,
+                "iv":6500,
+                "v":6500
+            },
+            "balaraja_barat":{
+                "i":6000,
+                "ii":9000,
+                "iii":9000,
+                "iv":12000,
+                "v":12000
+            },
+            "cikande":{},
+            "ciujung":{},
+            "walantaka":{},
+            "serang_timur":{},
+            "serang_barat":{},
+            "cilegon_timur":{},
+            "cilegon_barat":{},
+            "merak":{
+                "i":53500,
+                "ii":84500,
+                "iii":84500,
+                "iv":109000,
+                "v":109000
             }
         },
         "balaraja_brt":{
@@ -55,6 +52,9 @@
     "jakarta_tangerang":{
         "type":"buka",
         "i":8000,
-        "ii":12000
+        "ii":12000,
+        "iii":12000,
+        "iv":15500,
+        "v":15500
     }
 }
