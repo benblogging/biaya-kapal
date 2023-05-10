@@ -52,6 +52,7 @@
         }
     },
     "jakarta_tangerang":{
+        "nama":"Jakarta - Tangerang",
         "type":"buka",
         "i":8000,
         "ii":12000,
