@@ -17,6 +17,7 @@
             "iii":168000,
             "iva":644000
         },
+        "admin":2500,
         "jarak":30.6,
         "satuan_jarak":"km"
     },
