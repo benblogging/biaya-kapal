@@ -16,7 +16,9 @@
             "ii":108000,
             "iii":168000,
             "iva":644000
-        }
+        },
+        "jarak":30.6,
+        "satuan_jarak":"km"
     },
     "ketapang_gilimanuk":{"status":"coming soon"}
 }
