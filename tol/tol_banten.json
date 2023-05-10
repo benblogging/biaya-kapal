@@ -35,6 +35,8 @@
                 "iii":84500,
                 "iv":109000,
                 "v":109000
+                "jarak":67,
+                "satuan_jarak":"km"
             }
         },
         "balaraja_brt":{
@@ -56,5 +58,10 @@
         "iii":12000,
         "iv":15500,
         "v":15500
+        "tomang":{
+            "cikupa":{
+                "jarak":32,
+                "satuan_jarak":"km"
+            }
     }
 }
