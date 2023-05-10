@@ -19,7 +19,13 @@
         "ii":15500,
         "iii":15500,
         "iv":17500,
-        "v":17500
+        "v":17500,
+        "senayan":{
+            "tomang":{
+                "jarak":4.3,
+                "satuan_jarak":"km"
+            }
+        }
     },
     "jorr":{
         "type":"buka",
