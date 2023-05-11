@@ -1,5 +1,6 @@
 {
     "update":"2023-01-04T18:00:00",
+    "admin":2500,
     "merak_bakau":{
         "reguler":{
             "bayi":1750,
@@ -17,7 +18,6 @@
             "iii":168000,
             "iva":644000
         },
-        "admin":2500,
         "jarak":30.6,
         "satuan_jarak":"km"
     },
