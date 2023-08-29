@@ -29,7 +29,13 @@
     },
     "jorr":{
         "type":"buka",
-        "i":16000
+        "i":16000,
+        "cikunir":{
+            "ulujami":{
+                "jarak":29.7,
+                "satuan_jarak":"km"
+            }
+        }
     },
     "bandara":{
         "type":"buka",
