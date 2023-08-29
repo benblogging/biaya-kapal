@@ -65,5 +65,19 @@
                 "satuan_jarak":"km"
             }
         }
+    },
+    "jakarta_serpong":{
+        "type":"buka",
+        "i":7000
+    },
+    "serpong-balaraja":{
+        "name":"Serpong - Balaraja",
+        "alt_name":["serbaraja"],
+        "type":"buka",
+        "legal":{
+            "no":"Kepmen PUPR No. 1116/KPTS/M/2022",
+            "title":"no title"
+        },
+        "i":5500
     }
 }
