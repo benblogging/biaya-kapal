@@ -84,12 +84,12 @@
             "no":"Kepmen PUPR No. 1116/KPTS/M/2022",
             "title":"no title"
         },
-        "i":5500
+        "i":5500,
         "rawabuntu":{
             "bsdtimur":{
                 "jarak":5.15,
                 "satuan_jarak":"km"
             }
         }
-    },
+    }
 }
