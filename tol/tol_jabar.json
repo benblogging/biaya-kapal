@@ -1,0 +1,18 @@
+{
+    "update":"2023-08-29T16:30:21+07:00",
+    "jakarta_cikampek":{
+        "name":"Jakarta - Cikampek",
+        "type":"zonasi",
+        "legal":{
+            "no":"",
+            "title":""
+        },
+      "bekasibarat":{
+        "i":7000,
+        "cikunir":{
+          "jarak":3.8,
+          "satuan_jarak":"km"
+        }
+      }
+    }
+}
