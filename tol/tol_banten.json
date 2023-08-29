@@ -70,7 +70,10 @@
         "type":"buka",
         "i":7000,
         "ulujami":{
-            "rawabuntu":12.5
+            "rawabuntu":{
+                "jarak":12.5,
+                "satuan_jarak":"km"
+            }
         }
     },
     "serpong-balaraja":{
@@ -82,8 +85,11 @@
             "title":"no title"
         },
         "i":5500
-    },
-    "rawabuntu":{
-            "bsdtimur":5.15
+        "rawabuntu":{
+            "bsdtimur":{
+                "jarak":5.15,
+                "satuan_jarak":"km"
+            }
         }
+    },
 }
