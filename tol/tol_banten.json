@@ -68,7 +68,10 @@
     },
     "jakarta_serpong":{
         "type":"buka",
-        "i":7000
+        "i":7000,
+        "ulujami":{
+            "rawabuntu":12.5
+        }
     },
     "serpong-balaraja":{
         "name":"Serpong - Balaraja",
