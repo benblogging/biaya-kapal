@@ -42,12 +42,23 @@
         "i":8000
     },
     "kgading_pgebang":{
+        "name":"Kelapa Gading - Pulo Gebang",
         "type":"buka",
+        "legal":{
+            "no":"",
+            "title":""
+        },
         "i":19000,
         "ii":28000,
         "iii":28000,
         "iv":37500,
-        "v":37500
+        "v":37500,
+        "kelapagading":{
+            "pulogebang":{
+                "jarak":6,
+                "satuan_jarak":"km"
+            }
+        }
     },
     "becakayu":{
         "type":"buka",
