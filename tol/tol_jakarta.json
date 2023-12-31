@@ -1,5 +1,4 @@
 {
-    "update":"",
     "cijago":{
         "type":"buka",
         "i":9000,
@@ -10,6 +9,7 @@
     },
     "jirr":{
         "name":"Lingkar Dalam Kota Jakarta",
+        "update":"2023-12-31T12:00:00",
         "type":"buka",
         "legal":{
             "no":"Kepmen PUPR No. 74/KPTS/M/2022",
