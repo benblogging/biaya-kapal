@@ -52,6 +52,7 @@
         }
     },
     "jakarta_tangerang":{
+        "update":"2023-12-31T12:00:00",
         "name":"Jakarta - Tangerang",
         "type":"buka",
         "i":8000,
